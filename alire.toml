@@ -1,0 +1,13 @@
+[[crate]]
+name = "hello_ada"
+version = "0.1.0"
+authors = ["Janardan"]
+organization = "user"
+maintainers = []
+copyright = "Copyright (C) 2026"
+license = "MIT"
+description = "My first Ada program"
+categories = []
+notes = ""
+keys = []
+dependencies = []

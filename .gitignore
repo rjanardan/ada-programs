@@ -1,0 +1,7 @@
+# Alire build artifacts
+bin/
+obj/
+*.ali
+*.o
+gnat.lock
+.cache/
